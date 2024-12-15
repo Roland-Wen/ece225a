@@ -1,18 +1,8 @@
+# Check EDA.ipynb and Marginal PDF.png for my final project
+
 # OpenBiomechanics Project (OBP) Documentation
 
 The OpenBiomechanics Project is an initiative started by [Driveline Baseball Research & Development](https://drivelinebaseball.com/mission-and-purpose/) to provide raw (in the form of cleaned C3D files) and processed (full signal + point of interest) sports biomechanics data to the general public. For more information, read the documentation below and visit the [project homepage](https://openbiomechanics.org):
-
-![IMG_5797.JPG](imgs/IMG_5797.jpg)
-
-### Update 2024-07-30
-
-[High Performance](https://github.com/drivelineresearch/openbiomechanics/tree/main/high_performance) module added! Find it in the `high_performance` folder!
-
-### Update 2023-11-02
-
-OBP Computer Vision (OBP-CV) added! Examples can be found in the `computer_vision` folder and the README and data can be found at the following Google Sheet link:
-
-[OBP-CV README, Shot List, and More Information](https://docs.google.com/spreadsheets/d/1NhpF8DnfBdio_xsU7B44KNuHghtePDp-d3juvCYNm9Q/edit?usp=sharing)
 
 # License
 
